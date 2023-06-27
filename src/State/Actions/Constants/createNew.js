@@ -1,0 +1,2 @@
+export const CREATE_NEW = "CREATE_NEW";
+export const SET_NUMBER_OF_INPUT_SETS = "SET_NUMBER_OF_INPUT_SETS";
