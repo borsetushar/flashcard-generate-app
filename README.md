@@ -1,26 +1,4 @@
-# Flashcard Generator React Project
 
-A web application for creating and managing flashcards.
-
-## Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Features](#features)
-
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/borsetushar/flashcard-generate-app.git
-
-
-Certainly! Here's an example template for your README.md file:
-
-markdown
-Copy code
 # Flashcard Generator React Project
 
 A web application for creating and managing flashcards.
