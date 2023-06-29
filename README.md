@@ -24,8 +24,10 @@ npm install
 npm start
 
 Usage :
-1. Create Flashcards: Fill in the necessary details such as the group name, description, Term, and definition, and click on the create button to create a new flashcard.
-2. View Flashcards: All created flashcards will be displayed on the MyFlashcard Page. Click on a flashcard to view its details.
+1. Create Flashcards: Fill in the necessary details such as the group name, description, Term, and definition,
+ and click on the create button to create a new flashcard.
+2. View Flashcards: All created flashcards will be displayed on the MyFlashcard Page. Click on a
+ flashcard to view its details.
 3. You can navigate between the flashcards by clicking on the next and previous arrows.
 
 Technologies Used :
